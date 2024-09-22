@@ -1,0 +1,58 @@
+/************* Login form ****************/
+body{
+    background-color: #cfdde1;
+}
+.login{
+    margin-top: 10.2rem;
+}
+.login-logo i{
+    font-weight: 800;
+    color: #7695FF;
+    font-size: 70px;
+}
+.loginform{
+    width: 600px;
+    margin: auto;
+}
+.loginform .submit-btn{
+    background-color: #7695FF;
+    border: 0;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-card{
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 0 !important;
+    background: white;
+    border-radius: 10px;
+}
+/******************************************************************************************/
+.add-ticket{
+    width: 600px;
+    margin: auto;
+}
+/*****************************/
+table {
+    width: 95%;
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+
+th {
+    background: #3498db;
+    color: white;
+    font-weight: bold;
+}
+
+td,
+th {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    font-size: 18px;
+}
